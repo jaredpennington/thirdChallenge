@@ -7,6 +7,6 @@ I added window confirms as well as the characters needed for the password.
 
 I recalled information about how to properly use functions and if and else statements that i didn't happen to remember.
 
-## active link for the webpage: 
+## active link for the webpage: https://jaredpennington.github.io/thirdChallenge/
 
-## link for github repo page: 
+## link for github repo page: https://github.com/jaredpennington/thirdChallenge
